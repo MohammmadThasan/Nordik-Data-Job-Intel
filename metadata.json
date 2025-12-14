@@ -1,0 +1,5 @@
+{
+  "name": "Nordic Data Job Intel",
+  "description": "An AI-powered Job Intelligence Agent for the Swedish Data & BI market. Analyzes, scores, and filters job postings in real-time using Gemini 2.5.",
+  "requestFramePermissions": []
+}
